@@ -6,10 +6,10 @@
 focuses on selling and offering services for green plants. 
 • Watched tutorials and read articles to reinforce my understanding of responsive design 
 using CSS.  
-o https://youtu.be/PgAZ8KzfhO8?si=Atm1j_3xor6izUr8 
-o https://youtu.be/_wFJj94kSTU?si=i7JbcMv4UgtPE_CI 
+• https://youtu.be/PgAZ8KzfhO8?si=Atm1j_3xor6izUr8 
+• https://youtu.be/_wFJj94kSTU?si=i7JbcMv4UgtPE_CI 
 • Learned how to deploy a static website using GitHub Pages. 
-o https://youtu.be/BT4WzyT2g8k?si=3G-hnxoZFqdkQJco 
+• https://youtu.be/BT4WzyT2g8k?si=3G-hnxoZFqdkQJco 
 
 # Estimated Hours 
 Approximately 5 hours. 
