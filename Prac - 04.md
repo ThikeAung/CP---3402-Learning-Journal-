@@ -1,4 +1,5 @@
-Week 4
+# Practical 4
+# Week - 04
 
 - Learning Activities & Resources
 This week, I focused on setting up a local development environment for my LeafyLift CMS website. I installed XAMPP to create a localhost server and successfully moved my WordPress site from CloudAccess.net to my local machine. I used the All-in-One WP Migration plugin to export my website and import it into my local WordPress environment.
