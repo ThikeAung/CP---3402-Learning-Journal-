@@ -1,6 +1,8 @@
-#Week 5
+# Practical 5
+# Week - 05
 
-#Learning Activities & Resources
+# Learning Activities & Resources
+
 This week, I focused on creating a child theme for my LeafyLift WordPress site. I followed WordPress developer documentation to set up a child theme directory, create a style.css file that references the parent theme, and build a functions.php file to enqueue the child theme styles properly.
 
 For customizations, I implemented at least six visible changes:
@@ -11,17 +13,20 @@ For customizations, I implemented at least six visible changes:
 5. Modified the footer section to include additional contact info and social media links
 6. Added custom CSS for a more visually appealing product grid layout
 
-Helpful resources I used:
+# Helpful Resources I Used:
 - [WordPress Child Themes Documentation](https://developer.wordpress.org/themes/advanced-topics/child-themes/)
 - [Creating a WordPress Child Theme - YouTube Tutorial](https://www.youtube.com/watch?v=coLDoM1fQcc)
 - [Customizing WordPress Themes with CSS](https://www.w3schools.com/css/)
 
-Estimated Hours
+# Estimated Hours
+
 Around 7 hours
 
-Content Insights
+# Content Insights
+
 Building a child theme taught me the importance of maintaining theme updates without losing customizations. I learned how to properly inherit styles from a parent theme and override specific elements with my own CSS. Through the functions.php file, I also understood how WordPress enqueues styles and scripts, which is vital for performance and modular design.
 
-Career/Employability/Learning Insights
+# Career/Employability/Learning Insights
+
 This week’s work gave me hands-on experience with WordPress theme development, which is a valuable skill in web development and CMS management. Additionally, sharing my learning on LinkedIn helped me reflect on my progress and build my professional presence online. Learning how to present my insights publicly is a great step toward networking and showcasing my work to potential employers.
 
