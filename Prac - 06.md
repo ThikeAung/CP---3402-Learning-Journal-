@@ -13,10 +13,10 @@ Connected with teammates on LinkedIn to establish professional networking and en
 - Started project planning by helping assign initial tasks in Trello. One key area I focused on was investigating potential hosting platforms for our WordPress project, ensuring we choose one that aligns with our project requirements.
 
 # Helpful Resources I Used
-- GitHub Classroom Guide – Helped understand how to join and contribute to the team repo.
-- Slack Integrations Documentation – Assisted in linking GitHub and Trello with Slack for real-time updates.
-- Trello for Team Project Management – Provided guidance on organizing tasks, assigning responsibilities, and structuring the Group Agreement.
-- GitHub Projects vs Trello – Helped me compare project management tools to decide the best approach for our team.
+- [GitHub Classroom Guide](https://classroom.github.com/) – Helped understand how to join and contribute to the team repo.
+- [Slack Integrations Documentation](https://youtu.be/Yt66-u5UVOM?si=hwVxo5dMW5OZsvxQ) – Assisted in linking GitHub and Trello with Slack for real-time updates.
+- [Trello for Team Project Management](https://youtu.be/J-c2A5AdFl0?si=g_MNsKC2VJgm0Oy1) – Provided guidance on organizing tasks, assigning responsibilities, and structuring the Group Agreement.
+  
 
 # Estimated Hours
 - Around 5–6 hours, including setup, integration, discussions, and planning.
