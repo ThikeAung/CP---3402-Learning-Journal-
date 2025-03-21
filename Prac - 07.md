@@ -1,5 +1,5 @@
 **Practical Number & Week:**  
-# Prac 7 - PHP (Week X)
+# Prac 7 - PHP
 
 **Learning Activities & Resources:**  
 In this practical, I developed a basic PHP website to demonstrate key programming concepts. The site included multiple PHP files and implemented functionalities such as echoing HTML content, using decision-making statements, loops, functions, and including reusable files. The main features developed were:
