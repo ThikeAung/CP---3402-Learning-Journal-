@@ -4,12 +4,12 @@
 # Learning Activities & Resources:
 This week, I worked on implementing Sass (SCSS) to enhance CSS styling for a simple webpage. The key activities included:
 
-✅ Setting up a Sass project structure with modular SCSS files.
-✅ Using variables to define colors, fonts, and spacing for maintainability.
-✅ Applying nesting to organize CSS selectors efficiently.
-✅ Creating mixins for reusable styles like flexbox centering and buttons.
-✅ Utilizing extend/inheritance to reduce CSS redundancy.
-✅ Configuring a workflow automation setup with Gulp to compile SCSS into CSS automatically.
+- Setting up a Sass project structure with modular SCSS files.
+- Using variables to define colors, fonts, and spacing for maintainability.
+- Applying nesting to organize CSS selectors efficiently.
+- Creating mixins for reusable styles like flexbox centering and buttons.
+- Utilizing extend/inheritance to reduce CSS redundancy.
+- Configuring a workflow automation setup with Gulp to compile SCSS into CSS automatically.
 
 To complete the task, I referred to:
 
