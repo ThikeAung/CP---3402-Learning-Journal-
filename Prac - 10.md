@@ -20,8 +20,7 @@ To complete these tasks, I referred to:
 
 ## Helpful Resources:
 
-- [Group Presentation Rubric](#) – for structured self-evaluation  
-- [How to Upload Unlisted Videos on YouTube](https://support.google.com/youtube/answer/157177)  
+- [Group Presentation Rubric](#) – for structured self-evaluation   
 - [Presentation Tips for Students (Coursera)](https://www.coursera.org/lecture/public-speaking)  
 - OBS Studio / Zoom – for recording and timing practice  
 - Google Slides – for collaborative editing and presentation updates  
